@@ -1,4 +1,4 @@
-# 📊 Flipkarts Mobile Analysis (Class 10 SQL Project)
+# 📊 Flipkarts Mobile Analysis 
 
 Welcome to the **Flipkarts Mobile Analysis** project! This project involves working with a sample SQL database to analyze mobile phone data typically found on Indian e-commerce platforms like Flipkart.
 
