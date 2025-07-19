@@ -4,7 +4,7 @@ Welcome to the **Flipkarts Mobile Analysis** project! This project involves work
 
 ## 📁 Project Overview
 
-This SQL project explores various insights about mobile phone products, pricing segments, discount trends, and customer ratings/reviews using SQL queries. It was created as a **Class 10-level educational project** for database and SQL learning.
+This SQL project explores various insights about mobile phone products, pricing segments, discount trends, and customer ratings/reviews using SQL queries. It was created as a for database and SQL learning.
 
 ---
 
